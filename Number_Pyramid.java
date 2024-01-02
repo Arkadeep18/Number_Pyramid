@@ -13,7 +13,5 @@ public class Number_Pyramid {
 			}
 			System.out.println();
 		}
-		}
-
 	}
-
+}
